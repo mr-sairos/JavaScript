@@ -1,5 +1,6 @@
 // ==UserScript==
-// @updateURL    
+// @downloadURL  https://github.com/mr-sairos/JavaScript/raw/main/seashell.user.js
+// @updateURL    https://github.com/mr-sairos/JavaScript/raw/main/seashell.user.js
 // @name         Script
 // @namespace    http://tampermonkey.net/
 // @version      1
