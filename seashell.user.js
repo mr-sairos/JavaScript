@@ -3,7 +3,7 @@
 // @updateURL    https://github.com/mr-sairos/JavaScript/raw/main/seashell.user.js
 // @name         Script
 // @namespace    http://tampermonkey.net/
-// @version      1
+// @version      2
 // @description  try to take over the world!
 // @author       Sairos
 // @match        https://twitter.com/intent/retweet?tweet_id=1468303135722524673&original_referer=https://waitlist.seashell.com/?kolid=*
@@ -13,5 +13,5 @@
 
 (function() {
     'use strict';
-    alert("musiiii");
+    alert("amenero");
 })();
