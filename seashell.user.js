@@ -1,4 +1,5 @@
 // ==UserScript==
+// @updateURL    
 // @name         Script
 // @namespace    http://tampermonkey.net/
 // @version      1
