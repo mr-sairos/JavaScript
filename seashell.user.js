@@ -11,5 +11,5 @@
 
 (function() {
     'use strict';
-    window.close();
+    alert("musiiii");
 })();
